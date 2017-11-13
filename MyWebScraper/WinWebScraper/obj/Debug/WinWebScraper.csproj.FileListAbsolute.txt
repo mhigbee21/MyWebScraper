@@ -1,0 +1,11 @@
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\bin\Debug\WinWebScraper.exe.config
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\bin\Debug\WinWebScraper.exe
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\bin\Debug\WinWebScraper.pdb
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\bin\Debug\MyWebScraper.dll
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\bin\Debug\MyWebScraper.pdb
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\obj\Debug\WinWebScraper.csprojResolveAssemblyReference.cache
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\obj\Debug\WinWebScraper.Form1.resources
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\obj\Debug\WinWebScraper.Properties.Resources.resources
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\obj\Debug\WinWebScraper.csproj.GenerateResource.Cache
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\obj\Debug\WinWebScraper.exe
+C:\Users\mark.higbee\Documents\Visual Studio 2015\Projects\MyWebScraper\WinWebScraper\obj\Debug\WinWebScraper.pdb

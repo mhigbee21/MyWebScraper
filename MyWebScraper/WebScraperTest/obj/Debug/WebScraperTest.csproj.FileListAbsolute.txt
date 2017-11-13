@@ -1,0 +1,8 @@
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\WebScraperTest\obj\Debug\WebScraperTest.csprojResolveAssemblyReference.cache
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\WebScraperTest\bin\Debug\WebScraperTest.exe.config
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\WebScraperTest\bin\Debug\WebScraperTest.exe
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\WebScraperTest\bin\Debug\WebScraperTest.pdb
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\WebScraperTest\bin\Debug\MyWebScraper.dll
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\WebScraperTest\bin\Debug\MyWebScraper.pdb
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\WebScraperTest\obj\Debug\WebScraperTest.exe
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\WebScraperTest\obj\Debug\WebScraperTest.pdb

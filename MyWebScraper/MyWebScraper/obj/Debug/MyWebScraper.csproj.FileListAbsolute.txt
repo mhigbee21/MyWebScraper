@@ -1,0 +1,5 @@
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\MyWebScraper\bin\Debug\MyWebScraper.dll
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\MyWebScraper\bin\Debug\MyWebScraper.pdb
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\MyWebScraper\obj\Debug\MyWebScraper.dll
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\MyWebScraper\obj\Debug\MyWebScraper.pdb
+c:\users\mark.higbee\documents\visual studio 2015\Projects\MyWebScraper\MyWebScraper\obj\Debug\MyWebScraper.csprojResolveAssemblyReference.cache
