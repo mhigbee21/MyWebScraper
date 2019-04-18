@@ -28,6 +28,7 @@ namespace MyWebScraper
         public HashSet<ImageItem> Images;
         public HashSet<LinkItem> Links;
         public HashSet<ScriptItem> Scripts;
+        public HashSet<MetaTagItem> MetaTags;
 
 
         public WebScraper()
@@ -264,7 +265,9 @@ namespace MyWebScraper
                 Images = ImageFinder.Find(html, url);
                 Styles = StyleFinder.Find(html, url);
                 Scripts = ScriptFinder.Find(html, url);
+                MetaTags = MetaTagFinder.Find(html, url);
 
+           
                 return this;
             }
         }

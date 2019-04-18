@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="ImageFinder.cs" />
     <Compile Include="LinkFinder.cs" />
+    <Compile Include="MetaTagFinder.cs" />
     <Compile Include="MyWebClient.cs">
       <SubType>Component</SubType>
     </Compile>
